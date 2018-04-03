@@ -12,7 +12,7 @@ int main() {
 	   program in
 	   C
 	 */
-	printf("Hello, my name is Miguelangelo Martinez\n");
+	printf("Goodbye, I finished my CS 256 HW1\n");
 
 	return 0;
 }
